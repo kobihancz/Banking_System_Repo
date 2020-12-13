@@ -6,5 +6,6 @@ log_path = "../Logs/"
 try:
     Log.warning("Warning test success!",log_path)
     Log.error("Error test success!", log_path)
-except:
+except Exception as e:
     print("Logging Test Failed")
+    print(e)
