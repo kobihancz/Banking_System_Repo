@@ -1,3 +1,4 @@
+from Customer import Customer
 
 #starts program giving the user two choice sequences. Customer or Employee
 def startProgram():
@@ -30,16 +31,18 @@ def custLogIn():
     #in this function make sure the input is valid
 
 def signUp():
-    Customerid_input = input("Customer ID: ") 
-    name_input = input("Name: ")
-    ssn_input = input("Social Security #: ")
-    #accounts_input = input("Choose to open checking and savings or just checking: ")
-    address_input = input("Address: ")
-    age_input = input("Age: ")
-    creditScore_input = input("Credit Score: ")
+    customerID = input("Customer ID: ") 
+    name  = input("Name: ")
+    ssn  = input("Social Security #: ")
+    checkings = input("Checking Balance: ")
+    savings = input("savings Balance: ")
+    address = input("Address: ")
+    age = input("Age: ")
+    creditScore = input("Credit Score: ")
+    
+    customer = Customer(customerID, name, ssn, address, age, creditScore)
+   
     #create customer in db
-    startingCheckingBalance_input = input("Checking Balance: ")
-    startingSavingsBalance_input = input("savings Balance: ")
     #create accounts in db 
     #check all inputs
 
