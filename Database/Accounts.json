@@ -1,0 +1,14 @@
+{
+    "Accounts": [
+        {
+            "customer_id": 23434324231,
+            "account_type": "checkings",
+            "balance": 350.35
+        },
+        {
+            "customer_id": 23434324231,
+            "account_type": "savings",
+            "balance": 350.35
+        }
+    ]
+}
