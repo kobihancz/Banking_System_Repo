@@ -1,0 +1,14 @@
+{
+    "Employees": [
+        {
+            "employee_id": 4042429,
+            "name": "John Brown",
+            "department": "Loan"   
+        },
+        {
+            "employee_id": 5989789,
+            "name": "Joe White",
+            "department": "Credit Card" 
+        }
+    ]
+}

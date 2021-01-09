@@ -1,0 +1,1 @@
+{"request_id_counter": 2, "Requests": [{"request_ID": 2, "customer_id": 787879, "name": "John brown", "savingsBalance": 50000, "creditScore": 300, "department": "CreditCard"}, {"request_ID": 3, "customer_id": 5989789, "name": "Joe White", "savingsBalance": 50000, "creditScore": 300, "department": "CreditCard"}]}
