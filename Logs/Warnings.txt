@@ -1,0 +1,14 @@
+Warning test success! - Dec-13-2020 @ 06:50PM
+Customer already exists - Dec-13-2020 @ 08:19PM
+Customer already exists - Dec-13-2020 @ 08:46PM
+Customer already exists - Dec-13-2020 @ 08:47PM
+Must be alpha... - Dec-13-2020 @ 09:57PM
+Must be longer than 2 characters - Dec-13-2020 @ 09:57PM
+Must be alpha... - Dec-13-2020 @ 09:58PM
+Must be alpha... - Dec-13-2020 @ 09:58PM
+Must be alpha... - Dec-13-2020 @ 09:58PM
+Must be longer than 2 characters - Dec-13-2020 @ 09:59PM
+Must be alpha... - Jan-05-2021 @ 04:17PM
+Must be 6 characters - Jan-05-2021 @ 04:17PM
+Credit score must be between 300 and 850 ... - Jan-06-2021 @ 04:21PM
+Credit score must be between 300 and 850 ... - Jan-06-2021 @ 04:21PM

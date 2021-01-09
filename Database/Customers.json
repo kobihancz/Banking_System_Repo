@@ -1,12 +1,1 @@
-{
-    "Customers": [
-        {
-            "customer_id": "uhjk",
-            "ssn": "u67678",
-            "name": "juhbjnk",
-            "address": "ut7t",
-            "age": "ioyiu",
-            "creditScore": "ihi"
-        }
-    ]
-}
+{"Customers": [{"customer_id": 23434324231, "ssn": "u67678", "name": "juhbjnk", "address": "ut7t", "age": "ioyiu", "creditScore": "ihi"}, {"customer_id": "787878", "ssn": "787877", "name": "KobiHancz", "address": "2654 Anchor Ave", "age": 67, "creditScore": 299}, {"customer_id": "5757575", "ssn": "575678", "name": "KobiHancz", "address": "2654 Anchor Ave", "age": 69, "creditScore": 350}, {"customer_id": 24292429, "ssn": "990240", "name": "KobiHancz", "address": "244 Kidder Ave", "age": 23, "creditScore": 850}]}
