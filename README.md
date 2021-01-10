@@ -22,7 +22,7 @@ This is a project inspired by Springboards Data Engineering Track. It is a simpl
    *warnings.txt
  *Test \- test file that records tests to fix problems
  *Utilities \- Contains the Log file which applies functionality to Warnings and Errors
-    *Log.py - Performs 3 methods warning, error, write to file. This functionality is used in the banking system to check the user inputs when creating a new            customer. 
+    *Log.py \- Performs 3 methods warning, error, write to file. This functionality is used in the banking system to check the user inputs when creating a new            customer. 
     
   
 
