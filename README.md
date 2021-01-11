@@ -22,7 +22,18 @@ This is a project inspired by Springboards Data Engineering Track. It is a simpl
    *warnings.txt
  *Test \- test file that records tests to fix problems
  *Utilities \- Contains the Log file which applies functionality to Warnings and Errors
-    *Log.py \- Performs 3 methods warning, error, write to file. This functionality is used in the banking system to check the user inputs when creating a new            customer. 
+    *Log.py \- Performs 3 methods warning, error, write to file. This functionality is used in the banking system to check the user inputs when creating a new            customer.
+ *BankingSystem.py \- This is the Banking system that takes in user input and allows the user to perform all the functions of the banking system. 
+ \-It starts by allowing the User to choose Customer or Employee.
+ \-If the user chooses employee they can log in as an employee in the Loan or CreditCard department.They then can see all the pending requests for their department    and approve or deny each one.
+ \-If the user chooses Customer they can then choose to LogIn or SignUp
+ \-If the user chooses LogIn they input an existing Customer Id and Choose an activity
+ \-If the user chooses SignUp they input a customerID, name , ssn, address, age, creditScore and choose an activity
+ \-The user can then choose accountSummary or useService.
+ \-If the user chooses useService they can either apply for Loan for apply for Credit Card
+ \-If the user chooser accountSummary it will display the accounts associated with that CustomerID. they can then choose to interact with the checking account or      interact with the savings account.
+ \-If the user chooses Savingschoice they can either make a deposit or withdrawl and if the choose checkings choice they can either choose deposit or transfer. 
+ 
     
   
 
